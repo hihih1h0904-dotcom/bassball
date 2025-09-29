@@ -1,5 +1,3 @@
-# [최종 수정 완료된 함수]
-
 def get_statiz_data(year=2025, data_type='hitter'):
     """
     스탯티즈에서 특정 연도의 전체 선수 기록을 가져옵니다.
